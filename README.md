@@ -15,4 +15,4 @@ Only Html And CSS Based Project.
 - Contact
 
 # Contact
- For any Suggestion / Ideas ping me at [@prateekis1](https://twitter.com/prateekis1)
+ For any Suggestion / Ideas ping me at [@Sagar_chopane](https://www.linkedin.com/in/sagar-chopne-86a4031b7/)
