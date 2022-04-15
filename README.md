@@ -4,9 +4,12 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 ## Website
 Link- https://voluble-gumption-e96a4e.netlify.app/
 
-A front-end web developer is responsible for implementing visual and interactive elements that users engage with through their web browser when using a web application. ... A front-end web developer is responsible for implementing visual elements that users see and interact with in a web application.
 
+### WHY this project was chosen
+ Need of a Portfolio Website?
+In a nutshell, you need a portfolio website to showcase your work. Whether you’re an individual, a small team of two or a company of ten people, it’s crucial that you have a unique online approach. A website portfolio will help you stand out from the crowd, show your uniqueness, build trust, and make sure that others can actually find you.
 
+### HOW did you make the project
 # Feature
 Only Html And CSS Based Project. 
 In this Portfolio Website we implemented `Flex-box`property.
