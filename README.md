@@ -6,7 +6,7 @@ Link- https://voluble-gumption-e96a4e.netlify.app/
 
 
 ### WHY this project was chosen
-#Need of a Portfolio Website?
+Need of a Portfolio Website?
  
 In a nutshell, you need a portfolio website to showcase your work. Whether you’re an individual, a small team of two or a company of ten people, it’s crucial that you have a unique online approach. A website portfolio will help you stand out from the crowd, show your uniqueness, build trust, and make sure that others can actually find you.
 
