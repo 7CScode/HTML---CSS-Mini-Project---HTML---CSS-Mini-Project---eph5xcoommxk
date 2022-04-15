@@ -11,7 +11,6 @@ Only Html And CSS Based Project.
 
 # Pages:
 - Home 
-- ![About Tab](C:\Users\91973\Downloads\image.png)
 - About
 - Contact
 
