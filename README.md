@@ -9,6 +9,16 @@ A front-end web developer is responsible for implementing visual and interactive
 
 # Feature
 Only Html And CSS Based Project. 
+In this Portfolio Website we implemented `Flex-box`property.
+
+To build this Static web site we used the `Html` and `CSS`.
+
+Properties and functionality implemented in this site:
+
+Flex-box
+media query
+Buttons
+Hyperlinks and attributes.
 
 # Pages:
 - Home 
